@@ -87,7 +87,7 @@ A production-ready **Retrieval-Augmented Generation (RAG)** system built with Go
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/logistics-rag.git
+git clone https://github.com/IshikaAgrawal27/logistics-rag.git
 cd logistics-rag
 ```
 
@@ -374,9 +374,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Your Name** - your.email@example.com
+**Ishika Agrawal** - agrawalishika160@gmail.com
 
-Project Link: [https://github.com/yourusername/logistics-rag](https://github.com/yourusername/logistics-rag)
+Project Link: [https://github.com/IshikaAgrawal27/logistics-rag](https://github.com/IshikaAgrawal27/logistics-rag)
 
 ---
 
